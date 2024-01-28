@@ -1,4 +1,4 @@
-module github.com/shirikovn.ru/proto
+module github.com/shirikovn/proto
 
 go 1.21.0
 
